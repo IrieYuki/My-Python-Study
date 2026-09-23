@@ -14,3 +14,7 @@ Python 学习笔记与练习代码。
 ## 环境
 
 Python 3.x
+
+## 速查笔记正本
+
+`note/` 里的速查笔记已迁到 [assisted-learning-skills](https://github.com/IrieYuki/assisted-learning-skills)，本仓库只留链接文件。
